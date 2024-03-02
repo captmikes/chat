@@ -1,0 +1,19 @@
+Place the iframe on Your Web Page: Copy the iframe tag into the HTML of the web page where you want the chat application to appear. You can place it within the body of your HTML document where appropriate:
+html
+
+
+    <!-- Embedding the chat application -->
+    <iframe src="http://yourserver.com/path/to/chat.html" width="600" height="400" frameborder="0">
+        This feature requires inline frames. You have iframes disabled or your browser does not support them.
+    </iframe>
+
+Adjust the iframe Styling: You can style the iframe using CSS to make it fit well within your page. The width and height attributes can be set to percentages or fixed pixel values, depending on your layout needs. You can also control the border with the frameborder attribute or additional CSS.
+
+Test Your Embedded Chat: After embedding the iframe, test it thoroughly to ensure that the chat application functions correctly within the context of the new web page.
+
+Add your files in knowlege.doc (more can be specified in functions)
+edit functions.py to give it a promot and define any other things (model and knowlege)
+
+demo
+
+https://assistant-or-chat-support-mikestrouse.replit.app/
